@@ -1,7 +1,9 @@
 <template>
-  <div class="container">
+  <div class="mb-12">
     <Header />
+    <hr>
   </div>
+  
   <div class="container">
     <Formulario />
   </div>
